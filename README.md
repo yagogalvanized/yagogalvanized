@@ -1,11 +1,5 @@
 # Opa eu sou o Yago
-<!DOCTYPE html>
-<head>
-      <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />      
-</head>
-            
-          
-Alumo do 2° ano do curso técnico em Desenvovimento de Sistemas do CEEP PG
+Aluno do 2° ano do curso técnico em Desenvovimento de Sistemas do CEEP-PG
 ## Conhecimentos
 - C
 - C++
@@ -14,7 +8,9 @@ Alumo do 2° ano do curso técnico em Desenvovimento de Sistemas do CEEP PG
 - Java
 - HTML
 - CSS
-
+- Github 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+          
 
 ### nível 3
 #### nível 4
