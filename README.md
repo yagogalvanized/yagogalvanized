@@ -5,6 +5,8 @@ Aluno do 2° ano do curso técnico em Desenvovimento de Sistemas do CEEP-PG
 - ### C++
 - ### C#
 - ### Javascript
+
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" heigth="40"/>
 - ### Java
 - ### HTML
 - ### CSS
