@@ -9,7 +9,7 @@ Aluno do 2° ano do curso técnico em Desenvovimento de Sistemas do CEEP-PG
 - HTML
 - CSS
 - Github 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" />
+            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/>
 ### nível 3
 #### nível 4
 ##### nível 5
